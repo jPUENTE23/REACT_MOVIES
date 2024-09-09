@@ -70,8 +70,6 @@ export const CarteleraApp = () => {
                                         {pelicula.vote_count} reviews</a>
                                     </div>
 
-
-                                    {/* <p className='font-light text-white'>{pelicula.overview}</p> */}
                                 </div>
 
                             </div>
